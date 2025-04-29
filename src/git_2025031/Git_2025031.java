@@ -14,7 +14,8 @@ public class Git_2025031 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        System.out.println("Buyanzaya Batkhuyag - 2025031");
     }
     
 }
